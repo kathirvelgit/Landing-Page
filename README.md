@@ -1,16 +1,51 @@
-# React + Vite
+# 🌐 Figma Landing Page – React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎨 A responsive **Landing Page** built using **React.js and CSS**, based on a UI design taken from a **Figma Community file**. 
+The Figma design was used as the reference for the layout, sections, colors, spacing, illustrations, client logos, and overall UI structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🎨 Figma Design Reference
 
-## React Compiler
+🔗 [Figma Design](https://www.figma.com/community/file/1222060007934600841/minimal-landing-page-design-website-home-page-design-agency-website-ui-design?after-auth-duplicate-file-id=1222060007934600841&fuid=1681167980798195110)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+> **Note:** The Figma file was used as the design reference, and the UI was recreated using React.js and CSS.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🎨 Figma-based UI design
+- ⚛️ React.js component-based development
+- 📱 Responsive design
+- 🧩 Reusable React components
+- 🖼️ Figma design assets
+- 🏢 Client logos section
+- 👥 Community section
+- 📊 Statistics section
+- 💬 Testimonial section
+- 📝 Marketing/Blog cards
+- 📢 Call-to-action section
+- 🧭 Responsive navigation bar
+- 🦶 Footer section
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| ⚛️ React.js | Building UI components |
+| 🟨 JavaScript | Application logic |
+| 🎨 CSS3 | Styling and responsive design |
+| 🎨 Figma | UI/UX design reference |
+| ⚡ Vite | Development and build tool |
+| 💻 VS Code | Code editor |
+
+🔗 Connect With Me
+
+💼 LinkedIn:
+[Kathirvel G](https://www.linkedin.com/in/kathirvel-gk/)
+
+---
+
